@@ -5,7 +5,7 @@ using namespace std;
 class manusia {
     public:
         string name;
-        jantung varJantung;
+        jantung varjantung;
 
         manusia(string pName)
             : name (pName) {
